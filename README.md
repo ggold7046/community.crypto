@@ -32,9 +32,9 @@ Browsing the [**latest** collection documentation](https://docs.ansible.com/ansi
 
 Browsing the [**devel** collection documentation](https://docs.ansible.com/ansible/devel/collections/community/crypto) shows docs for the _latest version released on Galaxy_.
 
-We also separately publish [**latest commit** collection documentation](https://ansible-collections.github.io/community.crypto/branch/main/) which shows docs for the _latest commit in the `main` branch_.
+We also separately publish the [**latest commit** collection documentation](https://ansible-collections.github.io/community.crypto/branch/main/) which shows docs for the _latest commit in the `main` branch_.
 
-If you use the Ansible package and do not update collections independently, use **latest**. If you install or update this collection directly from Galaxy, use **devel**. If you are looking to contribute, use **latest commit**.
+If you use the Ansible package and do not update collections independently, use the **latest**. If you install or update this collection directly from Galaxy, use **devel**. If you are looking to contribute, use **latest commit**.
 
 ## Included content
 
